@@ -1,3 +1,5 @@
-Flask>=1.1.1
 pdftotext>=2.1.2
-multi-rake==0.0.1
+stop-words>=2018.7.23
+Flask>=1.1.1
+multi-rake>=0.0.1
+gensim>=3.8.1
